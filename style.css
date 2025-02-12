@@ -9,14 +9,14 @@ body {
     background-color: #333;
     display: flex;
     justify-content: center;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 main {
     display: flex;
     flex-direction: column;
     background: linear-gradient(to bottom, #ffffff, #FFF4F4);
-    width: 375px;
+    width: 100vw;
     height: 800px;
 }
 
