@@ -6,16 +6,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
 
 body {
+    overflow: hidden;
     display: flex;
     justify-content: center;
+    background-color: #141414;
 }
 
 main {
     display: flex;
     flex-direction: column;
-    width: 375px;
-    height: 812px;
-    background-color: #141414;}
+    width: 475px;
+    height: 828px;
+    background-color: #141414;
+}
 
 .circulo {
     width: 19.62px;
